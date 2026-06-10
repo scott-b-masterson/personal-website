@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <rect width="640" height="380" fill="#0b1228"/>
+  <g stroke="#1d2848" stroke-width="1">
+    <line x1="0" y1="95" x2="640" y2="95"/><line x1="0" y1="190" x2="640" y2="190"/><line x1="0" y1="285" x2="640" y2="285"/>
+    <line x1="128" y1="0" x2="128" y2="380"/><line x1="256" y1="0" x2="256" y2="380"/>
+    <line x1="384" y1="0" x2="384" y2="380"/><line x1="512" y1="0" x2="512" y2="380"/>
+  </g>
+  <g fill="none" stroke="#f5b942" stroke-opacity="0.55" stroke-width="1.3">
+    <path d="M470 140 C 400 80, 280 80, 210 130"/>
+    <path d="M470 140 C 430 200, 360 235, 290 240"/>
+    <path d="M470 140 C 480 200, 470 250, 440 285"/>
+    <path d="M210 130 C 180 180, 170 220, 175 265"/>
+  </g>
+  <g fill="#f5b942">
+    <circle cx="470" cy="140" r="12"/><circle cx="210" cy="130" r="8"/>
+    <circle cx="290" cy="240" r="7"/><circle cx="440" cy="285" r="6"/><circle cx="175" cy="265" r="6"/>
+  </g>
+  <g fill="#64d2ff" fill-opacity="0.85">
+    <circle cx="535" cy="110" r="4"/><circle cx="500" cy="190" r="4"/><circle cx="380" cy="105" r="4"/>
+    <circle cx="335" cy="170" r="4"/><circle cx="255" cy="190" r="4"/><circle cx="150" cy="190" r="4"/>
+    <circle cx="240" cy="300" r="4"/><circle cx="360" cy="300" r="4"/><circle cx="120" cy="110" r="4"/>
+  </g>
+  <text x="320" y="352" fill="#5d6c93" font-family="Inter,system-ui,sans-serif" font-size="15" font-weight="600" text-anchor="middle" letter-spacing="3">U.S. BANK HOLDING COMPANIES</text>
+</svg>

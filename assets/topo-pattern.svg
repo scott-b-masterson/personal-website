@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1">
+    <path d="M-20 60 Q 40 20, 90 55 T 200 50 T 320 70"/>
+    <path d="M-20 80 Q 45 38, 95 75 T 205 68 T 320 92"/>
+    <path d="M-20 102 Q 50 60, 100 96 T 210 88 T 320 115"/>
+    <path d="M-20 180 Q 60 150, 120 178 T 240 170 T 320 190"/>
+    <path d="M-20 200 Q 65 168, 125 198 T 245 188 T 320 212"/>
+    <path d="M-20 222 Q 70 188, 130 218 T 250 208 T 320 235"/>
+    <circle cx="70" cy="68" r="14"/><circle cx="70" cy="68" r="26"/><circle cx="70" cy="68" r="40"/>
+    <circle cx="225" cy="195" r="12"/><circle cx="225" cy="195" r="24"/><circle cx="225" cy="195" r="38"/>
+  </g>
+</svg>
