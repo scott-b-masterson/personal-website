@@ -10,10 +10,10 @@
 const SITE_NEWS = [
   {
     date: "Jun 2026",
-    text: "Completed Social & Economic Networks at Stanford; graduate Stochastic Processes (STATS 217) starts this summer.",
+    text: "Completed Social & Economic Networks at Stanford",
   },
   {
-    date: "May 2026",
+    date: "Jun 2026",
     text: "Submitted my constrained-randomization paper on tax-haven sandwich structures to Network Science (Cambridge). The working paper is on SSRN.",
     link: { url: "https://papers.ssrn.com/abstract=6691760", label: "Read it here." }
   },
@@ -37,6 +37,6 @@ const SITE_NEWS = [
 const SITE_UPCOMING = [
   {
     date: "Fall 2026",
-    text: "CS 224W: Machine Learning with Graphs at Stanford, building Poincaré embeddings of firm restructuring.",
+    text: "Graduate Stochastic Processes (STATS 217) begins this summer.",
   }
 ];
