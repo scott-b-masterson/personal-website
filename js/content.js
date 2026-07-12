@@ -9,6 +9,11 @@
 
 const SITE_NEWS = [
   {
+    date: "Jul 2026",
+    text: "Created Adjacency, an interactive matrix and networks visualizer.",
+    link: { url: "https://adjacency.app/", label: "Explore the tool." }
+  },
+  {
     date: "Jun 2026",
     text: "Completed Social & Economic Networks at Stanford",
   },
@@ -30,13 +35,5 @@ const SITE_NEWS = [
     date: "Mar 2025",
     text: "Named NCAA Indoor Track & Field All-American.",
     link: { url: "https://emoryathletics.com/sports/mens-track-and-field/roster/scott-masterson/9847", label: "Athlete page." }
-  }
-];
-
-/* Coming up (rendered after news, slightly dimmed) — optional list */
-const SITE_UPCOMING = [
-  {
-    date: "Fall 2026",
-    text: "Graduate Stochastic Processes (STATS 217) begins this summer.",
   }
 ];
